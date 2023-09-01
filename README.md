@@ -84,4 +84,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Embark on an exciting journey through data analysis and classification. Uncover the secrets hidden within the Wine dataset and witness the power of machine learning in action. Cheers to data-driven discovery! 🥂📊
+Embark on an exciting journey through data analysis and classification, which was meticulously developed as part of a linear algebra course. Uncover the secrets hidden within the Wine dataset and witness the power of machine learning in action. Cheers to data-driven discovery! 🥂📊
