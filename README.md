@@ -30,7 +30,7 @@ To get started, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/wine-dataset-analysis.git
+   git clone https://github.com/123456Arshia/wine-dataset-analysis.git
    ```
 
 2. Navigate to the project directory:
