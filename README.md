@@ -85,7 +85,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Embark on an exciting journey through data analysis and classification. Uncover the secrets hidden within the Wine dataset and witness the power of machine learning in action. Cheers to data-driven discovery! 🥂📊
-
----
-
-Feel free to modify and personalize the README as needed to align with your project's unique characteristics and objectives.
