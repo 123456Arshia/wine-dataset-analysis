@@ -1,9 +1,6 @@
 # Wine Dataset Analysis and Classification
 This project showcases an example of data analysis, dimensionality reduction, and classification using the Wine dataset. The script provided in this repository loads the Wine dataset, preprocesses the data, performs dimensionality reduction using Principal Component Analysis (PCA), and trains a Random Forest classifier for wine type classification.
 
-
-This project showcases an example of data analysis, dimensionality reduction, and classification using the Wine dataset. The script provided in this repository loads the Wine dataset, preprocesses the data, performs dimensionality reduction using Principal Component Analysis (PCA), and trains a Random Forest classifier for wine type classification.
-
 The Wine dataset is a well-known dataset in the field of machine learning, consisting of features related to the chemical composition of different types of wines. The script demonstrates how to preprocess the dataset, visualize its distribution, and use PCA for reducing the dimensionality of the feature space. Additionally, a Random Forest classifier is trained to predict the wine type based on the reduced-dimensional data.
 
 The main steps performed by the script include data loading, preprocessing, visualization, PCA, and classification. The results are displayed through visualizations and evaluation metrics.
