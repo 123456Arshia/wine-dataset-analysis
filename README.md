@@ -1,6 +1,4 @@
-Certainly! Here's a new README file for your project:
 
----
 
 # Wine Dataset Analysis and Classification
 
